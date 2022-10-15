@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Akash1yadavv/Akash1yadavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Atul Singh Bhadouria...
+    I'm Akash Yadav...
 </h1>
 
 <!----------------------------------- About Section ------------------------------------>
@@ -68,8 +67,8 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/atul-singh-bhadouria-5a1a88108/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/atul-singh-bhadouria-5a1a88108/" />
+    <a href="https://www.linkedin.com/in/akash-yadav-83372923a/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/akash-yadav-83372923a/" />
     </a>
     <a href="https://atulsinghbhadouria.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://atulsinghbhadouria.netlify.app/" />
