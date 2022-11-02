@@ -108,9 +108,3 @@ Here are some ideas to get you started:
 
 <h2><i>Top Repositories</i></h2>
 
-
-<p>
-
-<a href="https://github.com/indicate0/nostalgic-blood-2749">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=indicate0n&repo=nostalgic-blood-2749&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
-    </a>
