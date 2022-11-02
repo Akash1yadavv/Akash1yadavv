@@ -103,17 +103,14 @@ Here are some ideas to get you started:
 
 
 
+
 <!----------------------------------- Top Repository Section ------------------------------------>
+
+<h2><i>Top Repositories</i></h2>
+
+
 <p>
 
 <a href="https://github.com/indicate0/nostalgic-blood-2749">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1yadavv&repo=nostalgic-blood-2749&locale=en&border_radius=0&theme=dark" alt="Akash1yadavv" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=indicate0n&repo=nostalgic-blood-2749&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
     </a>
-
-
-   
-   <a href="https://github.com/KaustubhBadve/Beutybebo-Cloned">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhBadve&repo=Beutybebo-Cloned&locale=en&border_radius=0&theme=dark" alt="Akash1yadavv" />
-    </a>
-   
-</p>
