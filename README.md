@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <!----------------------------------- Star Section ------------------------------------>
 
- <h2><i>My GitHub Stats</i></h2>
+ <h2><i>My GitHub Status</i></h2>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash1yadavv&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Akash Yadav" height="139" />
