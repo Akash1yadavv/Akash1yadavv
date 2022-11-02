@@ -107,13 +107,13 @@ Here are some ideas to get you started:
 <p>
 
 <a href="https://github.com/indicate0/nostalgic-blood-2749">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaykumar2n&repo=succinct-wrench-1095&locale=en&border_radius=0&theme=dark" alt="Akash1yadavv" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1yadavv&repo=succinct-wrench-1095&locale=en&border_radius=0&theme=dark" alt="Akash1yadavv" />
     </a>
 
 
    
    <a href="https://github.com/KaustubhBadve/Beutybebo-Cloned">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhBadve&repo=Beutybebo-Cloned&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhBadve&repo=Beutybebo-Cloned&locale=en&border_radius=0&theme=dark" alt="Akash1yadavv" />
     </a>
    
 </p>
