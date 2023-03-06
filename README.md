@@ -115,14 +115,14 @@ Here are some ideas to get you started:
 <p>
 
 <a href="https://github.com/shivendra0852/Online-Plant-Nursery-Rest-API">
-     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shivendra0852&repo=Online-Plant-Nursery-Rest-API&locale=en&border_radius=0&theme=dark" alt="atulsinghmbbs"/>
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shivendra0852&repo=Online-Plant-Nursery-Rest-API&locale=en&border_radius=0&theme=dark" alt="Online Plant Nursery App"/>
    
   </a> 
 
 
    
    <a href="https://github.com/shubhambhoskar/enchanting-flowers-955">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhambhoskar&repo=enchanting-flowers-955&locale=en&border_radius=0&theme=dark" alt="Rishon-A-Singh"/>
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhambhoskar&repo=enchanting-flowers-955&locale=en&border_radius=0&theme=dark" alt="Online Shopping"/>
     </a>
    
 </p>
