@@ -94,9 +94,14 @@ Here are some ideas to get you started:
  <!--------------------------------------------------------------------------------> 
   
  ## :trophy: Recent GitHub Activity
-  <br/>
-   <a href="https://github.com/Akash1yadavv"><img alt="Akash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akash1yadavv&custom_title=Akash1yadavv's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<p>   
+ <a href="https://github-readme-activity-graph.cyclic.app/graph?username=Akash1yadavv&theme=react">
+        <img
+          alt="Akash's Activity Graph"
+          src="https://github-readme-activity-graph.cyclic.app/graph?username=Akash1yadavv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&width=100vh"
+        />
+ </a>    
+</p>
 
 
 <br/>
@@ -107,4 +112,18 @@ Here are some ideas to get you started:
 <!----------------------------------- Top Repository Section ------------------------------------>
 
 <h2><i>Top Repositories</i></h2>
+<p>
+
+<a href="https://github.com/shivendra0852/Online-Plant-Nursery-Rest-API">
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shivendra0852&repo=Online-Plant-Nursery-Rest-API&locale=en&border_radius=0&theme=dark" alt="atulsinghmbbs"/>
+   
+  </a> 
+
+
+   
+   <a href="https://github.com/shubhambhoskar/enchanting-flowers-955">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhambhoskar&repo=enchanting-flowers-955&locale=en&border_radius=0&theme=dark" alt="Rishon-A-Singh"/>
+    </a>
+   
+</p>
 
