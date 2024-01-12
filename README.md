@@ -95,6 +95,7 @@ interfaces using JavaScript on the frontend.</i>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash1yadavv&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Akash Yadav" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1yadavv&layout=compact&exclude_repo=masai-course/akash_fw20_1095,PracticeDSA=Shell&border_radius=0&theme=dark" alt="Akash1yadavv&" height="139"/>
 </p>
+
 <br>
   
  <!--------------------------------------------------------------------------------> 
