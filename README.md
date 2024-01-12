@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-
-    <i> Motivated Java Full Stack Developer with a strong foundation in
+   <i>Motivated Java Full Stack Developer</i>
+    <i>  with a strong foundation in
 Java, Spring Boot, and front-end technologies. Successfully
 translating passion for coding into tangible results, specializing
 in writing production-ready code. Proficient in designing and
