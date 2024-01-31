@@ -97,20 +97,15 @@ interfaces using JavaScript on the frontend.</i>
   
  ## :trophy: Recent GitHub Activity
 <p>
-  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=Akash1yadavv&theme=react">
-    <img
-      alt="Akash's Activity Graph"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=Akash1yadavv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&width=100%"
-    />
-  </a>
+    <img  align="center" alt="Akash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash1yadavv&theme=react-dark&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&width=100%"/>
 </p>
 <h2><i>My GitHub Status</i></h2>
 
 <p>
     <!-- Overall Stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash1yadavv&theme=transparent&show_icons=true" alt="Akash Yadav" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash1yadavv&theme=transparent&show_icons=true" alt="Akash Yadav" height="100%" />
     <!-- Top Languages -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1yadavv&layout=compact&exclude_repo=masai-course/akash_fw20_1095,PracticeDSA=Shell&border_radius=0&theme=dark" alt="Akash1yadavv&" height="139"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1yadavv&layout=compact&exclude_repo=masai-course/akash_fw20_1095,PracticeDSA=Shell&border_radius=0&theme=dark" alt="Akash1yadavv&" height="100%"/>
     
 </p>
 <br>
